@@ -1,2 +1,2 @@
-# andrii-marchuk.github.io
-Module-01-02
+# module-01-02
+Homework html-css module 01-02
