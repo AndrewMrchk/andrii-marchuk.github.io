@@ -10,11 +10,12 @@ html {
 
 body {
   margin: 0px;
-  color: rgb(102, 96, 96);
 }
+
 .container {
   width: 901px;
   margin: 0px auto;
+  color: #626262;
 }
 
 .navigation-menu {
@@ -43,6 +44,10 @@ margin-right: 100px;
   text-decoration: none;
   font-size: 14px;
   position: relative;
+}
+
+.item-navigation {
+  color: #626262;
 }
 
 .item-navigation:hover,
